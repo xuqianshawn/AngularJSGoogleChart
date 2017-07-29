@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script src="~/Scripts/angular.min.js"></script>
+<script src="~/Scripts/App.js"></script>
+<div ng-app="demo" ng-controller="HomeCtrl">
+    <div ng-repeat="data in stock | orderBy: 'sectorAreaName'" class="ng-scope slick-slide slick-active" tabindex="0" role="option" aria-describedby="slick-slide71" style="width: 86px;" data-slick-index="1" aria-hidden="false">
+        {{data.Close}} {{data.Date}}
+    </div>
+</div>

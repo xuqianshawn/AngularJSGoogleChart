@@ -1,0 +1,9 @@
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml

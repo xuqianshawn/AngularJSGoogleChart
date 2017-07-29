@@ -1,0 +1,130 @@
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\csc.exe
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\vbc.exe
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\AngularJSMVC.dll.config
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\AngularJSMVC.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\AngularJSMVC.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Antlr3.Runtime.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\EntityFramework.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\EntityFramework.SqlServer.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Newtonsoft.Json.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Owin.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Helpers.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Mvc.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Optimization.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Razor.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\WebGrease.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Helpers.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Mvc.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Optimization.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.Razor.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Antlr3.Runtime.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Newtonsoft.Json.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\EntityFramework.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\EntityFramework.SqlServer.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\obj\Debug\AngularJSMVC.csprojResolveAssemblyReference.cache
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\obj\Debug\AngularJSMVC.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\obj\Debug\AngularJSMVC.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\DataAccessLayer.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\DataAccessLayer.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\csc.exe
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\vbc.exe
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\AngularJSMVC.dll.config
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\AngularJSMVC.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\AngularJSMVC.pdb
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Antlr3.Runtime.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\DataAccessLayer.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\EntityFramework.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Newtonsoft.Json.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Owin.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Helpers.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Mvc.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Optimization.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Razor.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\WebGrease.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\DataAccessLayer.pdb
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Helpers.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Mvc.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Optimization.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.Razor.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Newtonsoft.Json.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\EntityFramework.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\obj\Debug\AngularJSMVC.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\obj\Debug\AngularJSMVC.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\AngularJSMVC\obj\Debug\AngularJSMVC.pdb
