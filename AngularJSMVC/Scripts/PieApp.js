@@ -1,17 +1,29 @@
 ﻿var app = angular.module('chartapp', []);
-app.factory("LoadData", function ($http, $q) {
-    return function(){
+app.factory("Data", function ($http, $q) {
+    var Dataobj = {};
+    Dataobj.Load= function(action){
     var deferred = $q.defer();
-        $http.get('/home/LoadChartData').then(function (success) {
+        $http.get('/home/'+action).then(function (success) {
             deferred.resolve({data:success.data});
         },function (error) {
            deferred.resolve({ data: false });
         });
         return deferred.promise;
     }
+    return Dataobj;
 });
-
-app.directive("piechart", function (LoadData) {
+//app.service("Data", function ($http, $q) {
+//    this.Load =function (action) {
+//        var deferred = $q.defer();
+//        $http.get('/home/'+action).then(function (success) {
+//            deferred.resolve({ data: success.data });
+//        }, function (error) {
+//            deferred.resolve({ data: false });
+//        });
+//        return deferred.promise;
+//    }
+//});
+app.directive("piechart", function (Data) {
   
     return {
         restrict: 'A',
@@ -21,7 +33,7 @@ app.directive("piechart", function (LoadData) {
             data.addColumn('string', 'JS framework');
             data.addColumn('number', 'Marktet share');
             //data.addRows([['Angular', 15], ['kendo', 5], ['Bootstrap', 20], ['NodeJs', 2]]);
-            var result = LoadData();
+            var result = Data.Load('LoadChartData');// LoadData();
             result.then(function (returndata) {
                 angular.forEach(returndata.data, function (value, key) {
                     data.addRow([value.Name, value.MarketShare]);
