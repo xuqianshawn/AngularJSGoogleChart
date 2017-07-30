@@ -14,7 +14,15 @@ namespace AngularJSMVC.Controllers
 
             return View();
         }
+        public ActionResult LineChart()
+        {
 
+            return View();
+        }
+        public ActionResult PieChart()
+        {
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
