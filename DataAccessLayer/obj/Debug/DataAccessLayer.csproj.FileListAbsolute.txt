@@ -7,3 +7,12 @@ c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLaye
 c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
 c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
 c:\users\shawn\documents\visual studio 2015\Projects\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Shawn\Documents\Git\AngularJSMVC\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

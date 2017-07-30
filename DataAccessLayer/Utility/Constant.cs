@@ -9,5 +9,6 @@ namespace DataAccessLayer.Utility
     public static class Constant
     {
         public static string SPSelectGDX = "SPSelectGDX";
+        public static string SPSelectServer = "SPSelectServer";
     }
 }

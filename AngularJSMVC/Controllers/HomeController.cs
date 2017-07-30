@@ -55,5 +55,21 @@ namespace AngularJSMVC.Controllers
                 throw e; 
             }
         }
+        public ActionResult LoadChartData()
+        {
+            try
+            {
+                using (var da = new ServerDA())
+                {                 
+                    var list = da.GetServer();
+                    return Content(list.ToJSON());
+                }
+
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
     }
 }
