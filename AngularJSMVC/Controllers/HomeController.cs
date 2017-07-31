@@ -46,6 +46,10 @@ namespace AngularJSMVC.Controllers
                     DateTime frmDate = DateTime.Now.AddYears(-1);
                     DateTime toDate = DateTime.Now;
                     var list = da.GetStock(frmDate, toDate);
+                    foreach (var item in list)
+                    {
+                        item.DateUnix = Util.getUnixTimeFromDatTime(item.Date);
+                    }
                     return Content(list.ToJSON());
                 }
 

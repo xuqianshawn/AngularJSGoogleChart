@@ -9,6 +9,7 @@ namespace DataAccessLayer.Models
     public class Stock
     {
         public DateTime Date { get; set; }
+        public long DateUnix { get; set; }
         public decimal Open { get; set; }
         public decimal High { get; set; }
         public decimal Low { get; set; }

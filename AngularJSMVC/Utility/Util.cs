@@ -10,6 +10,11 @@ namespace DataAccessLayer.Utility
 {
     public static class Util
     {
+        public static long getUnixTimeFromDatTime(DateTime dt)
+        {
+            long unixTimestamp = (Int32)(dt.Subtract(new DateTime(1970, 1, 1))).TotalSeconds;
+            return unixTimestamp;
+        }
         private static readonly DateTime UnixEpoch = new DateTime(1970, 1, 1);
 
         public static long ToUnixTime(this DateTime dateTime)

@@ -150,6 +150,7 @@
     <Content Include="Scripts\Angular\angular.min.js" />
     <Content Include="Scripts\Angular\App.js" />
     <Content Include="Scripts\Angular\ext.js" />
+    <Content Include="Scripts\Angular\LineChart.js" />
     <Content Include="Scripts\Angular\PieApp.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
