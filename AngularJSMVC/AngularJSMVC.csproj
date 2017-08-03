@@ -152,6 +152,7 @@
     <Content Include="Scripts\Angular\BarChart.js" />
     <Content Include="Scripts\Angular\ext.js" />
     <Content Include="Scripts\Angular\LineChart.js" />
+    <Content Include="Scripts\Angular\LineChart2.js" />
     <Content Include="Scripts\Angular\PieApp.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -188,6 +189,7 @@
     <Content Include="Views\Home\LineChart.cshtml" />
     <Content Include="Views\Home\PieChart.cshtml" />
     <Content Include="Views\Home\BarChart.cshtml" />
+    <Content Include="Views\Home\LineChart2.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

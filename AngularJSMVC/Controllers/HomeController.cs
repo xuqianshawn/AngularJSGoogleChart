@@ -19,6 +19,11 @@ namespace AngularJSMVC.Controllers
 
             return View();
         }
+        public ActionResult LineChart2()
+        {
+
+            return View();
+        }
         public ActionResult PieChart()
         {
             return View();
@@ -41,7 +46,7 @@ namespace AngularJSMVC.Controllers
             return View();
         }
 
-        public ActionResult GetData()
+        public ActionResult GetGDXData()
         {
             try
             {
@@ -49,7 +54,7 @@ namespace AngularJSMVC.Controllers
                 {
                     DateTime frmDate = DateTime.Now.AddYears(-1);
                     DateTime toDate = DateTime.Now;
-                    var list = da.GetStock(frmDate, toDate);
+                    var list = da.GetStock(frmDate, toDate, Constant.SPSelectGDX);
                     foreach (var item in list)
                     {
                         item.DateUnix = Util.getUnixTimeFromDatTime(item.Date);
@@ -61,6 +66,28 @@ namespace AngularJSMVC.Controllers
             catch(Exception e)
             {
                 throw e; 
+            }
+        }
+        public ActionResult GetSP500GDXData()
+        {
+            try
+            {
+                using (var da = new StockDA())
+                {
+                    DateTime frmDate = DateTime.Now.AddYears(-1);
+                    DateTime toDate = DateTime.Now;
+                    var listGDX = da.GetStock(frmDate, toDate, Constant.SPSelectGDX);
+                    var listSP500 = da.GetStock(frmDate, toDate, Constant.SPSelectSP500);
+                    var list= from g in listGDX join s in listSP500 on g.Date equals s.Date
+                              select new {DateUnix= Util.getUnixTimeFromDatTime(g.Date), gdxprice=g.AdjClose, sp500price=s.AdjClose/100};
+                    
+                    return Content(list.ToJSON());
+                }
+
+            }
+            catch (Exception e)
+            {
+                throw e;
             }
         }
         public ActionResult LoadChartData()
