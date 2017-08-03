@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Reflection;
 using System.Web;
 using System.Web.Script.Serialization;
@@ -16,7 +18,51 @@ namespace DataAccessLayer.Utility
             return unixTimestamp;
         }
         private static readonly DateTime UnixEpoch = new DateTime(1970, 1, 1);
+        public static string serializeObject<T>(this T toSerialize)
+        {
+            var serializer = new JavaScriptSerializer();
+            serializer.MaxJsonLength = Int32.MaxValue;
+            string jsonString = serializer.Serialize(toSerialize);
+            return jsonString;
 
+        }
+        public static String callMobileWebSvc<T>(string _url, T _obj, string _method, string proxyaddress="")
+        {
+            String respStr = string.Empty;
+            Boolean isproxyUsed = false;
+            
+            try
+            {
+                string caseString = serializeObject(_obj);
+                var req = (HttpWebRequest)WebRequest.Create(_url);
+                if (isproxyUsed)
+                {
+                    WebProxy proxyObject = new WebProxy(proxyaddress, true);
+                    req.Proxy = proxyObject;
+                }
+                req.ContentType = "text/json";
+                req.Method = _method;
+
+                using (var streamWriter = new StreamWriter(req.GetRequestStream()))
+                {
+                    streamWriter.Write(caseString);
+                    streamWriter.Flush();
+                    streamWriter.Close();
+                }
+
+                HttpWebResponse response = (HttpWebResponse)req.GetResponse();
+                StreamReader reader = new StreamReader(response.GetResponseStream());
+                respStr = reader.ReadToEnd();
+                response.Close();
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+
+            return respStr;  //JObject rss = JObject.Parse(respStr); //call parse json to parse
+        }
         public static long ToUnixTime(this DateTime dateTime)
         {
             return (dateTime - UnixEpoch).Ticks / TimeSpan.TicksPerMillisecond;
