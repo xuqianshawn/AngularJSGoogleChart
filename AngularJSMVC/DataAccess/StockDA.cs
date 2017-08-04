@@ -17,13 +17,13 @@ namespace DataAccessLayer
            
         }
 
-        public List<Stock> GetStock(DateTime frmDate, DateTime toDate)
+        public List<Stock> GetStock(DateTime frmDate, DateTime toDate, string storedProcName)
         {
             DatabaseProviderFactory factory = new DatabaseProviderFactory();
             Database db = factory.CreateDefault();
             try
             {
-                System.Data.Common.DbCommand dbCommandWrapper = db.GetStoredProcCommand(Utility.Constant.SPSelectGDX);
+                System.Data.Common.DbCommand dbCommandWrapper = db.GetStoredProcCommand(storedProcName);
 
                 db.AddInParameter(dbCommandWrapper, "@frmDate", DbType.DateTime, frmDate);
                 db.AddInParameter(dbCommandWrapper, "@toDate", DbType.DateTime,toDate);
