@@ -24,6 +24,11 @@ namespace AngularJSMVC.Controllers
 
             return View();
         }
+        public ActionResult TestWebService()
+        {
+
+            return View();
+        }
         public ActionResult PieChart()
         {
             return View();

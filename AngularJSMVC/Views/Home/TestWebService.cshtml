@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "TestWebService";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $(function () {
+        $.ajax({
+            type: "POST",
+            url: "/WebService/COEService.asmx/HelloWorld",
+            data: { "Name": "name", "MarketShare": 12.5 },
+            success: function (data) {
+                var jsondata = JSON.parse(data);
+                 alert(jsondata);
+            },
+            error:function(err)
+            {
+                alert("error");
+            },
+            
+            dataType: 'xml'
+        });
+    });
+</script>
+<h2>TestWebService</h2>
+
